@@ -1,0 +1,28 @@
+{
+  "name": "ts-lab-field-mask",
+  "version": "1.0.0",
+  "description": "Plugin to inserts masks into form fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thiago-soler@github.com/thiago-soler/ts-lab-field-mask.git"
+  },
+  "keywords": [
+    "mask",
+    "fields",
+    "form"
+  ],
+  "author": "Thiago Soler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiago-soler/ts-lab-field-mask/issues"
+  },
+  "homepage": "https://github.com/thiago-soler/ts-lab-field-mask#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha-phantomjs": "^0.11.0"
+  }
+}
